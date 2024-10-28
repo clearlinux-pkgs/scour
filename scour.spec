@@ -7,7 +7,7 @@
 #
 Name     : scour
 Version  : 0.38.2
-Release  : 18
+Release  : 19
 URL      : https://github.com/scour-project/scour/archive/v0.38.2/scour-0.38.2.tar.gz
 Source0  : https://github.com/scour-project/scour/archive/v0.38.2/scour-0.38.2.tar.gz
 Summary  : Scour SVG Optimizer
